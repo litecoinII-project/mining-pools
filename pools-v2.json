@@ -1,11 +1,92 @@
 [
   {
     "id": 1,
-    "name": "xxxxx",
+    "name": "Mining-Dutch",
     "addresses": [
-      "xxxxx"
+      "LNLyb66bXQe5gSite6VMDB9ufqbAJ51im3"
     ],
-    "tags": ["xxxx"],
-    "link": "xxxxx"
+    "tags": ["/Mining-Dutch/"],
+    "link": "https://www.mining-dutch.nl/pools/litecoinii.php"
   },
+  {
+    "id": 2,
+    "name": "Zpool",
+    "addresses": [
+      "LNLyb66bXQe5gSite6VMDB9ufqbAJ51im3"
+    ],
+    "tags": ["/zpool.ca/"],
+    "link": "https://zpool.ca"
+  },
+  {
+    "id": 3,
+    "name": "LuckyDogpool",
+    "addresses": [
+      "LQ6owV66wNMz9zgqifG9zqPPAeLb95hsop"
+    ],
+    "tags": [],
+    "link": "https://luckydogpool.com"
+  },
+  {
+    "id": 4,
+    "name": "Coin-Miners",
+    "addresses": [
+      "LNPY3WfskGzWCUsETETnaq1WF3PUdyCr84"
+    ],
+    "tags": [],
+    "link": "https://pool.coin-miners.info"
+  },
+  {
+    "id": 5,
+    "name": "MiningCoin",
+    "addresses": [
+      "LMYwvDDGVAcbpDt9bavKTdUxBDj8mLSo2p"
+    ],
+    "tags": [],
+    "link": "https://miningcoin.online"
+  },
+  {
+    "id": 6,
+    "name": "CodeFalcon",
+    "addresses": [
+      "lc21qqr9c8lz4f60cgha864aenv8fqwgjr6ll2eym6w"
+    ],
+    "tags": ["PythonPool"],
+    "link": "https://python-pool.codefalcon.dev/dash.php?coin=lc2"
+  },
+  {
+    "id": 7,
+    "name": "Altcoinspool",
+    "addresses": [
+      "LhdHBuqers1TuQ7K5V4avVT6kCu6wXSBvT"
+    ],
+    "tags": [],
+    "link": "https://altcoinspool.cc"
+  },
+  {
+    "id": 8,
+    "name": "BowserLab-pool",
+    "addresses": [
+      "LYoX3DWEQp8q4KzRhL8ey5NzwS2jzThAgv"
+    ],
+    "tags": ["bowserlab"],
+    "link": "https://bowserlab.ddns.net"
+  },
+  {
+    "id": 9,
+    "name": "Crypto-Éire",
+    "addresses": [
+      "lc21qv66sgpkry3kggrsrv0yv6g2az5yvtg323gr0ul"
+    ],
+    "tags": ["Crypto-Eire"],
+    "link": "https://crypto-eire.com/dash.php?coin=lc2"
+  },
+  {
+    "id": 10,
+    "name": "Koinium",
+    "addresses": [
+      "LQkYUZzyt7WuSU8c8jTRUGCWx2rpWAgnYP"
+    ],
+    "tags": ["koinium.com"],
+    "link": "https://koinium.it"
+  }
 ]

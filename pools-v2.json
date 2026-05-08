@@ -88,5 +88,14 @@
     ],
     "tags": ["koinium.com"],
     "link": "https://koinium.it"
+  },
+  {
+    "id": 11,
+    "name": "BitsPlease Stratum",
+    "addresses": [
+      ""
+    ],
+    "tags": ["LC2SoloProxy"],
+    "link": "https://github.com/OBitsPlease/LC2-DOGE2-Solo-Pools"
   }
 ]
